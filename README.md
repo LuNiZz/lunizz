@@ -1,4 +1,4 @@
-<img align="right" alt="avatar" src="avatar2.JPG">
+<img align="right" alt="avatar" width="512" src="avatar2.JPG"> </ br>
 ### Beyaz takkeli tornaci 👋
 <a href="https://youtube.com/candeger">
 <img align="left" alt="Youtube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
