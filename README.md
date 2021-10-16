@@ -1,10 +1,10 @@
-<html><img align="right" alt="avatar" width="256" src="avatar2.JPG"> </html>
+<img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
 
 ### Beyaz takkeli tornaci 👋  Can Deger
 #### 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
 
-<html><a href="https://youtube.com/candeger">
+<a href="https://youtube.com/candeger">
 <img align="left" alt="Youtube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a> 
 <a href="https://twitch.tv/lunizz">
@@ -23,7 +23,7 @@
 <img align="left" alt="mail me" height="32" width="32" src="gmail.svg">
 </a>
 <br></br>
-<a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a></html>
+<a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a><br>
 ### ;)
 <!--
 **LuNiZz/lunizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
