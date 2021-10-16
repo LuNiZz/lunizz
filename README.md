@@ -32,7 +32,12 @@
 </a> 
 <td><a href="mailto:lunizz@pm.me">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a></tr>
+</a>
+<td>
+  <td><a href="https://tiktok.com/candeger">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
+  </tr>
 </table>
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 <br></br>
