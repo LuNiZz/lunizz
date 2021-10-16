@@ -11,6 +11,9 @@
 <a href="https://twitter.com/CanDeger">
   <img align="left" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://github.com/lunizz">
+  <img alt="Twitch" height="32" width="32" src="github.svg">
+</a>
 <a href="https://www.linkedin.com/in/CanDeger/">
   <img align="left" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
