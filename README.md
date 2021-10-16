@@ -1,3 +1,5 @@
+
+<img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
 ### Beyaz takkeli tornaci 👋  Can Deger
 #### 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
@@ -23,7 +25,6 @@
 </a>
 <br></br>
 
-<img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
 
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 ### ;)
