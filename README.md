@@ -31,8 +31,7 @@
 <td><a href="mailto:lunizz@pm.me">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a></tr>
-<br></br>
-
+</table>
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 ### ;)
 
