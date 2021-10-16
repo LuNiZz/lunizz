@@ -5,7 +5,7 @@
 #### 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
 
-<table>
+<table><center>
 <tr>
   <td><a href="https://youtube.com/candeger">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -36,7 +36,7 @@
 <td><a href="https://tiktok.com/can.deger">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
-  </tr>
+  </tr></center>
 </table>
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 <br></br>
