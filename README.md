@@ -1,4 +1,4 @@
-<img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
+<img align="right" alt="avatar" width="128" src="avatar2.JPG"> 
 
 
 ### Beyaz takkeli tornaci 👋  Can Deger
