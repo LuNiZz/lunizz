@@ -2,6 +2,7 @@
 
 ### Beyaz takkeli tornaci 👋 - Can Deger
 #### selamlar, deneme yanilma
+- 📫 Sosyal medya linklerim ⬇️⬇️⬇️
 <a href="https://youtube.com/candeger">
 <img align="left" alt="Youtube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a> 
@@ -21,6 +22,7 @@
 <img align="left" alt="mail me" height="32" width="32" src="gmail.svg">
 </a>
 
+- ❓ SIKCA SORULAN SORULAR reposu icin : <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> SSS </a>
 <!--
 **LuNiZz/lunizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
