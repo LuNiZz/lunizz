@@ -1,6 +1,7 @@
 <img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
 
-### Beyaz takkeli tornaci 👋
+### Beyaz takkeli tornaci 👋 - Can Deger
+#### selamlar, deneme yanilma
 <a href="https://youtube.com/candeger">
 <img align="left" alt="Youtube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a> 
