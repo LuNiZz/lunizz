@@ -5,7 +5,7 @@
 <a href="https://twitch.tv/lunizz">
   <img alt="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg">
 </a>
-<a href="https://discord.com/HfzmfHX">
+<a href="https://discord.gg/HfzmfHX">
   <img align="left" alt="LuNiZzers" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/CanDeger">
