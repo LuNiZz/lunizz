@@ -1,3 +1,5 @@
+<img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
+
 
 ### Beyaz takkeli tornaci 👋  Can Deger
 #### 
@@ -38,7 +40,7 @@
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
-<img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lunizz&theme=blue-green">
 
