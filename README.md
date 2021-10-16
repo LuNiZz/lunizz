@@ -1,10 +1,10 @@
-<img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
+<html><img align="right" alt="avatar" width="256" src="avatar2.JPG"> </html>
 
 ### Beyaz takkeli tornaci 👋  Can Deger
 #### 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
 
-<a href="https://youtube.com/candeger">
+<html><a href="https://youtube.com/candeger">
 <img align="left" alt="Youtube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a> 
 <a href="https://twitch.tv/lunizz">
@@ -22,8 +22,8 @@
 </a> <a href="mailto:lunizz@pm.me">
 <img align="left" alt="mail me" height="32" width="32" src="gmail.svg">
 </a>
-<br></br>
-###
+<br></br></html>
+
 
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 <!--
