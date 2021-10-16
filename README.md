@@ -40,6 +40,9 @@
 </table>
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 <br></br>
+
+
+
 ### ;)
 
 
