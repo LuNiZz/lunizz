@@ -3,6 +3,7 @@
 ### Beyaz takkeli tornaci 👋 - Can Deger
 #### selamlar, deneme yanilma
 ⬇️⬇️⬇️ Sosyal medya linklerim ⬇️⬇️⬇️
+
 <a href="https://youtube.com/candeger">
 <img align="left" alt="Youtube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a> 
