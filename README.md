@@ -1,7 +1,7 @@
 <img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
 
-### Beyaz takkeli tornaci 👋 - Can Deger
-#### selamlar, deneme yanilma
+### Beyaz takkeli tornaci 👋  Can Deger
+#### 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
 
 <a href="https://youtube.com/candeger">
@@ -23,6 +23,8 @@
 <img align="left" alt="mail me" height="32" width="32" src="gmail.svg">
 </a>
 <br></br>
+###
+
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 <!--
 **LuNiZz/lunizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
