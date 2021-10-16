@@ -1,7 +1,4 @@
 
-<img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
-
-
 ### Beyaz takkeli tornaci 👋  Can Deger
 #### 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
@@ -35,7 +32,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a></tr>
 <br></br>
-
+<img align="right" alt="avatar" width="256" src="avatar2.JPG"> 
 
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 ### ;)
