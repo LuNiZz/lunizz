@@ -1,7 +1,7 @@
 ### Beyaz takkeli tornaci 👋
 <a href="https://youtube.com/candeger">
   <img alt="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
-</a>Z<a href="https://twitch.tv/lunizz">
+</a>   <a href="https://twitch.tv/lunizz">
   <img alt="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg">
 </a> <a href="https://discord.gg/HfzmfHX">
   <img align="left" alt="LuNiZzers" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
