@@ -6,7 +6,7 @@
 #### 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
 
-
+<div>
 - <a href="https://youtube.com/candeger">
 <img align="left" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a> 
@@ -32,7 +32,7 @@
 <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <br></br>
-
+</div>
 
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 ### ;)
