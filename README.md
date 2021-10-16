@@ -14,7 +14,7 @@
 <img align="left" alt="github" height="32" width="32" src="github.svg">
 </a> <a href="https://www.linkedin.com/in/CanDeger/">
 <img align="left" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <mailto="lunizz@pm.me">
+</a> <a href="mailto:lunizz@pm.me">
 <img align="left" alt="mail me" height="32" width="32" src="gmail.svg">
 </a>
 
