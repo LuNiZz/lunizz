@@ -25,6 +25,8 @@
 <br></br>
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a><br>       
 ### ;)
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
 <!--
 **LuNiZz/lunizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
