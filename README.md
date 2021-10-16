@@ -1,10 +1,8 @@
-<img align="right" alt="avatar" width="128" src="avatar2.JPG"> 
-
-
 ### Beyaz takkeli tornaci 👋  Can Deger
 #### 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
 
+<img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
 <table><center>
 <tr>
   <td><a href="https://youtube.com/candeger">
