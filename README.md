@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/DAD-Of%20Three-yellowgreen)
 ![](https://img.shields.io/badge/HOME-CPH%2FDK%20(2014%20--%20-pink))
 ![](https://img.shields.io/badge/GAMING-MMORPGs%20%2F%20FPS%20%2F%20RTS-brightgreen)
-
+### ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
 
