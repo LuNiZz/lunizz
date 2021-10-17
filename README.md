@@ -2,6 +2,7 @@
 #### ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
 ![](https://img.shields.io/badge/DAD-Of%20Three-yellowgreen)
 ![](https://img.shields.io/badge/HOME-CPH%2FDK%20(2014%20--%20-pink))
+![](https://img.shields.io/badge/GAMING-MMORPGs%20%2F%20FPS%20%2F%20RTS-brightgreen)
 
 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
