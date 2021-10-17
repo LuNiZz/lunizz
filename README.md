@@ -1,6 +1,8 @@
 ### Beyaz takkeli tornaci 👋  Can Deger
 #### ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
-![](https://img.shields.io/badge/DAD-of%203%20%3B)-green)
+![](https://img.shields.io/badge/DAD-Of%20Three-yellowgreen)
+
+
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
 
 <img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
