@@ -11,7 +11,7 @@
 
 
 <table><center>
-<tr> 
+<tr><center> 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
  </tr>
 <tr>
