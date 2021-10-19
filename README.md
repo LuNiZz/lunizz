@@ -10,8 +10,8 @@
 
 
 
-<table><center>
-<tr><center> 
+<table class="center">
+<tr> 
 ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
  </tr>
 <tr>
@@ -44,7 +44,7 @@
 <td><a href="https://tiktok.com/@can.deger">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
-  </tr></center>
+  </tr>
 </table>
 <a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 <br></br>
