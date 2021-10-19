@@ -8,10 +8,12 @@
  ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
  ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
 
-⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
 
 
 <table><center>
+<tr> 
+⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
+ </tr>
 <tr>
   <td><a href="https://youtube.com/candeger">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
