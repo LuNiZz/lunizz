@@ -12,7 +12,7 @@
 
 <table class="center">
 <tr> 
-##### ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
+          ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
  </tr>
 <tr>
   <td><a href="https://youtube.com/candeger">
