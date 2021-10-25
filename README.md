@@ -1,6 +1,6 @@
 <img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
 
-## Beyaz takkeli tornaci 👋  Can Deger
+## Beyaz Takkeli Tornaci 👋  Can Deger
  ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
  
  
