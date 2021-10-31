@@ -37,7 +37,7 @@
 <td><a href="https://www.linkedin.com/in/CanDeger/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<td><a href="mailto:lunizz@pm.me">
+<td><a href="mailto:candeger@creatorstation.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <td><a href="https://tiktok.com/@can.deger">
