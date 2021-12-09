@@ -3,7 +3,7 @@
 ## Beyaz Takkeli Tornaci 👋  Can Deger
  ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
  
- 
+ bu takvim guncel degil, yayinlar pazar gunleri bir sureligine
  ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
  ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
 
