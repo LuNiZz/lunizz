@@ -25,20 +25,12 @@
 
 <br/>  
 
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-LuNiZz┊Security Architect, streamer, gamer, father of 3┊☁️🍺✈️⚽🏈🎾🎮┊  
-  
+LuNiZz┊Security Architect, streamer, gamer 
+Father of 3
+☁️🍺✈️⚽🏈🎾🎮
 
-- https://twitch.tv/lunizz   
-  
-
-- https://youtube.com/candeger  
-  
-
-- https://discord.gg/lunizz  
 
 
 </td><td valign="top" width="50%">
@@ -127,10 +119,3 @@ LuNiZz┊Security Architect, streamer, gamer, father of 3┊☁️🍺✈️⚽�
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-
-
