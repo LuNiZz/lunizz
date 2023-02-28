@@ -32,7 +32,7 @@
 
 - LuNiZz┊Security Architect, streamer, gamer <br>
 
-- Father of 3 [👦👧]+[👶]<br>
+- Father of 3 [👦👧👶] ❤️ <br>
 
 - ☁️🍺✈️⚽🏈🎾🎮 <br>
 
