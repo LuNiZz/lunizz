@@ -30,9 +30,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-= LuNiZz┊Security Architect, streamer, gamer <br>
-= Father of 3 <br>
-= ☁️🍺✈️⚽🏈🎾🎮 <br>
+- LuNiZz┊Security Architect, streamer, gamer <br>
+
+- Father of 3 <br>
+
+- ☁️🍺✈️⚽🏈🎾🎮 <br>
 
 
 
