@@ -39,7 +39,7 @@ Father of 3 <br>
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/LuNiZz/lunizz/raw/main/avatar2.JPG" align="center" style="width: 50%" />
+<img src="https://github.com/LuNiZz/lunizz/raw/main/avatar2.JPG" align="right" style="width: 50%" />
 </div>  
 
 
