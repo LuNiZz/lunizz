@@ -27,9 +27,9 @@
 
 <table><tr><td valign="top" width="50%">
 
-LuNiZz┊Security Architect, streamer, gamer 
-Father of 3
-☁️🍺✈️⚽🏈🎾🎮
+LuNiZz┊Security Architect, streamer, gamer <br>
+Father of 3 <br>
+☁️🍺✈️⚽🏈🎾🎮 <br>
 
 
 
