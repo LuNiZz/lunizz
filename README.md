@@ -22,6 +22,9 @@
 <a href="https://discord.gg/lunizz">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" />
 </a>
+a href="https://twitch.tv/lunizz">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white style="margin-bottom: 5px;" />
+</a>
 
 <br/>  
 
