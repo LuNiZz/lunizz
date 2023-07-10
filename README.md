@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500" width="600" height="300" />
+<img src="https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500" width="1200" height="300" />
 
 ## Beyaz Takkeli Tornaci 👋 Can Deger  
   
