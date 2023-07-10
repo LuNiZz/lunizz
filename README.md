@@ -27,24 +27,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
 
-- LuNiZz┊Security Architect, streamer, gamer <br>
-
-- Father of 3 [👦👧👶] ❤️ <br>
-
-- ☁️🍺✈️⚽🏈🎾🎮 <br>
-
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github.com/LuNiZz/lunizz/raw/main/avatar2.JPG" align="right" style="width: 50%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
