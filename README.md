@@ -91,9 +91,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
-  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LuNiZz&theme=blueberry)](https://git.io/streak-stats)  
 
 <br/>  
 
