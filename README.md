@@ -111,8 +111,7 @@
   
 
 <br/>  
-
-<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunizz&show_icons=true)<div align="center">
 <img src="https://komarev.com/ghpvc/?username=lunizz&&style=flat-square" align="center" />
 </div>  
   
