@@ -94,6 +94,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LuNiZz&theme=blueberry)](https://git.io/streak-stats)  
 
 <br/>  
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="tr" dir="ltr">Sunlar surada dursun lazim olur...<a href="https://t.co/6A1P6SkHqE">https://t.co/6A1P6SkHqE</a><a href="https://t.co/Ydl7sYxr2o">https://t.co/Ydl7sYxr2o</a><a href="https://t.co/bG59rhYs9o">https://t.co/bG59rhYs9o</a><a href="https://t.co/dKH8S3UXxs">https://t.co/dKH8S3UXxs</a><a href="https://t.co/JHPlApvGvI">https://t.co/JHPlApvGvI</a><a href="https://t.co/Be3GDEeb9Y">https://t.co/Be3GDEeb9Y</a><a href="https://t.co/SJIxxSn1nl">https://t.co/SJIxxSn1nl</a><br><br>🌎 <a href="https://t.co/je4zDhY41y">https://t.co/je4zDhY41y</a><br>📬 candeger@creatorstation.com</p>&mdash; Can Deger (@CanDeger) <a href="https://twitter.com/CanDeger/status/1659445228053360640?ref_src=twsrc%5Etfw">May 19, 2023</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>  
   
