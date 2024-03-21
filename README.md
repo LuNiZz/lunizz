@@ -3,6 +3,16 @@
 ## Beyaz Takkeli Tornaci 👋 Can Deger  
 
 ### ❓ SSS : ❓ SIKCA SORULAN SORULAR REPO!!! >> https://sss.lunizz.com
+1979 model bir humanoid olarak, 93-94 yilindan beri internetle, 90larin basindan beri bilgisayarla, 2000lerin basi itibariyle de siber guvenlik ile ilgilenmeye basladim... O zamanlar daha ziyade sistem guvenligi, network guvenligi gibi adlari vardi tabi ;)
+ilk zamanlar egitmenlik yaptim Microsoft teknolojileri uzerine, sonrasinda cesitli entegratorlerde danisman/siber guvenlik muhendisi/pentester olarak calistim... 2014 yilinda Danimarka'ya yerlestim, o gun bu gundur buralardayim..
+Gecmiste, McAfee, Intel, Microsoft, Novo Nordisk gibi firmalarda calistim, son 2 senedir, AWS deyim... Amazon Web Services Nordik bolgesinde lead advisor olarak calisiyorum.
+Şu an kafayı sıfır-güven (Zero-Trust), kimlik yönetimi (IAM), altyapı güvenliği gibi bulut teknolojilerine takmış durumdayım (özellikle AWS). Haliyle tehdit modellemeyi, olağanüstü durumlara müdahaleyi, iyi planlanmış güvenliği ve buluta geçişle alakalı güvenlik konularını falan da ekleyin listeye. Tabii bir de bir ton test deneyimim var, yani satıcıya özel çözümlerde de, genel geçer sertifikalarda da..
+vs vs..
+
+2019 dan beri sosyal medyada, icerik uretiyorum, once Twitch ile basladim, sonra Youtube... 
+Takiliyoruz iste kendi halimizde...
+Sevgiler, Selamlar..
+
 #### ✅ Linkler:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lunizz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/CanDeger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CanDeger) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CanDeger) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Can.Deger) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/LuNiZz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CanDeger) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@candeger) 
 
