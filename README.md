@@ -4,8 +4,11 @@
 
 ### ❓ SSS : ❓ SIKCA SORULAN SORULAR REPO!!! >> https://sss.lunizz.com
 1979 model bir humanoid olarak, 93-94 yilindan beri internetle, 90larin basindan beri bilgisayarla, 2000lerin basi itibariyle de siber guvenlik ile ilgilenmeye basladim... O zamanlar daha ziyade sistem guvenligi, network guvenligi gibi adlari vardi tabi ;)
+
 ilk zamanlar egitmenlik yaptim Microsoft teknolojileri uzerine, sonrasinda cesitli entegratorlerde danisman/siber guvenlik muhendisi/pentester olarak calistim... 2014 yilinda Danimarka'ya yerlestim, o gun bu gundur buralardayim..
-Gecmiste, McAfee, Intel, Microsoft, Novo Nordisk gibi firmalarda calistim, son 2 senedir, AWS deyim... Amazon Web Services Nordik bolgesinde lead advisor olarak calisiyorum.
+
+Gecmiste, McAfee, Intel, Microsoft, Novo Nordisk gibi firmalarda calistim, son 2 senedir, AWS deyim... Amazon Web Services Nordic bolgesinde lead advisor olarak calisiyorum.
+
 Şu an kafayı sıfır-güven (Zero-Trust), kimlik yönetimi (IAM), altyapı güvenliği gibi bulut teknolojilerine takmış durumdayım (özellikle AWS). Haliyle tehdit modellemeyi, olağanüstü durumlara müdahaleyi, iyi planlanmış güvenliği ve buluta geçişle alakalı güvenlik konularını falan da ekleyin listeye. Tabii bir de bir ton test deneyimim var, yani satıcıya özel çözümlerde de, genel geçer sertifikalarda da..
 vs vs..
 
