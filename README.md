@@ -9,11 +9,12 @@
 
 Geçmişte, McAfee, Intel, Microsoft, Novo Nordisk gibi firmalarda çalıştım, son 2 senedir ise AWS'de ☁️ Amazon Web Services Nordic bölgesinde lead advisor olarak görev yapıyorum.
 
-Şu an kafayı sıfır-güven (Zero-Trust), kimlik yönetimi (IAM), altyapı güvenliği gibi bulut teknolojilerine takmış durumdayım (özellikle AWS). Haliyle tehdit modellemeyi, olağanüstü durumlara müdahaleyi, iyi planlanmış güvenliği ve buluta geçişle alakalı güvenlik konularını da ekleyin listeye. Tabii bir de bir ton test deneyimim var, yani satıcıya özel çözümlerde de, genel geçer sertifikalarda da 🤓
+Şu aralar kafayı Zero-Trust, IAM, altyapı güvenliği gibi bulut teknolojilerine takmış durumdayım (özellikle AWS). Tehdit modelleme, olay müdahalesi, iyi tasarlanmış güvenlik ve bulut benimseme güvenliği uygulamaları da ilgi alanlarım arasında. Ayrıca penetrasyon/zafiyet testleri, satıcıya özel güvenlik ürünleri ve çözüm tasarımı gibi konularda da deneyimim var ve de bir suru gereksiz sertifika... 🤓
 
 2019'dan beri sosyal medyada içerik üretiyorum, önce Twitch ile başladım, sonra Youtube... Takılıyoruz işte kendi halimizde 😎
 
 Burası da, kendi halinde sizlere yol gösterebileceğine inandığım kaynakları derlediğim, bulduğum güzel repoları topladığım, kendi sosyal medya linklerime sahip bir genel repo aslında. Kendi geliştirdiğim bir kod vs yok burada.. zaten kod yazmayı da bırakalı epey oldu 😥 ne yazık ki.
+Siber güvenlik çok geniş bir konu, ben de uzmanı olduğunu söyleyemem, uzmanı olduğunu söyleyen de yanlış yapıyor bence... Her gün yeni bir şeyler öğreniyoruz, gelişmenin sonu yok.
 
 Umarım hoşuna gider, afiyed! 🤗
 
