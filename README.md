@@ -4,7 +4,7 @@
 
 ### ❓ SSS : ❓ SIKCA SORULAN SORULAR REPO!!! >> https://sss.lunizz.com
 <sub>
-1979 model bir 🤖 olarak, 1993-94'ten beri internette, 90'ların başından beri bilgisayarlarla, 2000'lerin başından itibaren de siber güvenlik ile ilgilenmeye başladım... O zamanlar daha ziyade sistem güvenliği, network güvenliği gibi adları vardı tabi 😉 
+1979 model bir humanoid olarak, 1993-94'ten beri internette, 90'ların başından beri bilgisayarlarla, 2000'lerin başından itibaren de siber güvenlik ile ilgilenmeye başladım... O zamanlar daha ziyade sistem güvenliği, network güvenliği gibi adları vardı tabi 😉 
 <br>  
 İlk zamanlar Microsoft teknolojileri üzerine eğitmenlik yaptım, sonrasında çeşitli entegratörlerde danışman/siber güvenlik mühendisi/pentester olarak çalıştım... 2014 yılında Danimarka'ya yerleştim, o günden beri buralardayım 🇩🇰
 <br><br>
