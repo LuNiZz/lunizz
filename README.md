@@ -1,7 +1,8 @@
 <img src="https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500" />
 
 ### Beyaz Takkeli Tornaci 👋 Can Deger  
-
+[![translate](https://img.shields.io/badge/English-English?logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/LuNiZz?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+<br>
 <sub>
 <hr>
 1979 model bir humanoid olarak, 1993-94'ten beri internette, 90'ların başından beri bilgisayarlarla, 2000'lerin başından itibaren de siber güvenlik ile ilgilenmeye başladım... O zamanlar daha ziyade sistem güvenliği, network güvenliği gibi adları vardı tabi 😉 
