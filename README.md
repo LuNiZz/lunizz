@@ -20,7 +20,7 @@ Umarım hoşuna gider, afiyed! 🤗
 
 Sevgiler, Selamlar 👋
 
-<html><iframe src="https://dijital.link/lunizz" width="600" height="400" style="overflow: hidden;"></iframe></html>
+
 
 
 #### ✅ Linkler:
