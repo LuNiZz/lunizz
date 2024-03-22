@@ -1,7 +1,7 @@
 <img src="https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500" />
 
 ### Beyaz Takkeli Tornaci 👋 Can Deger  
-[![translate](https://img.shields.io/badge/English-English?logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/LuNiZz?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+[![translate](https://img.shields.io/badge/English-English?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/LuNiZz?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 <br>
 <sub>
 <hr>
