@@ -14,7 +14,7 @@ Geçmişte, McAfee, Intel, Microsoft gibi firmalarda çalıştım, son 2 senedir
 2019'dan beri sosyal medyada içerik üretiyorum, önce Twitch ile başladım, sonra Youtube... Takılıyoruz işte kendi halimizde 😎
 
 Burası da, kendi halinde sizlere yol gösterebileceğine inandığım kaynakları derlediğim, bulduğum güzel repoları topladığım, kendi sosyal medya linklerime sahip bir genel repo aslında. Kendi geliştirdiğim bir kod vs yok burada.. zaten kod yazmayı da bırakalı epey oldu 😥 ne yazık ki.
-Siber güvenlik çok geniş bir konu, ben de uzmanı olduğunu söyleyemem, uzmanı olduğunu söyleyen de yanlış yapıyor bence... Her gün yeni bir şeyler öğreniyoruz, gelişmenin sonu yok.
+Siber güvenlik çok geniş bir konu, ben de uzmanı olduğumu söyleyemem, uzmanı olduğunu söyleyen de yanlış yapıyor bence... Her gün yeni bir şeyler öğreniyoruz, gelişmenin sonu yok.
 
 Umarım hoşuna gider, afied! 🤗
 
