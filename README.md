@@ -8,7 +8,7 @@
 <br>  
 İlk zamanlar Microsoft teknolojileri üzerine eğitmenlik yaptım, sonrasında çeşitli entegratörlerde danışman/siber güvenlik mühendisi/pentester olarak çalıştım... 2014 yılında Danimarka'ya yerleştim, o günden beri buralardayım 🇩🇰
 <br><br>
-Geçmişte, McAfee, Intel, Microsoft gibi firmalarda çalıştım, son 2 senedir ise AWS'de ☁️ Amazon Web Services Nordic bölgesinde lead advisor olarak görev yapıyorum.
+Geçmişte, McAfee, Intel, Microsoft gibi firmalarda çalıştım, son 2 senedir ise AWS'de ☁️ Amazon Web Services Europe North bölgesinde lead security advisor olarak görev yapıyorum.
 <br><br>
 Şu aralar kafayı Zero-Trust, IAM, altyapı güvenliği gibi bulut teknolojilerine takmış durumdayım (özellikle AWS). Tehdit modelleme, incident response, well-architected security ve cloud adoption/migration security uygulamaları da ilgi alanlarım arasında. Ayrıca penetrasyon/zafiyet testleri, sistem/network/bulut güvenlik ürünleri ve çözüm tasarımı gibi konularda da deneyimim var ve de bir suru gereksiz sertifikam... 🤓
 <br><br>
