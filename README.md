@@ -4,7 +4,13 @@
 <sub>
 <hr>
   <h3>Ben kimim? neciyim ne is yaparim, Olayim ne? Bu sorularin yanitini REDDIT deki, r/LuNiZz sub reddit'inde bulabilirsin... Afied!</h3>
- <a href"https://www.reddit.com/r/LuNiZz/comments/1hhzj0e/beyaz_takkeli_tornaci_can_deger"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/reddit_button_icon_151844.png" width=250></a>
+➡️➡️<img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/LuNiZz?style=for-the-badge&labelColor=blue&color=black"> ⬅️⬅️
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@candeger) [![kick](https://img.shields.io/badge/KICK-KICK?style=flat-square&logo=kick&logoColor=%2353FC19&color=%23000000)](https://kick.com/lunizz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/lunizz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/CanDeger) [![Twitter](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://twitter.com/CanDeger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CanDeger) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@Can.Deger) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/LuNiZz) [![DL](https://img.shields.io/badge/LuNiZz-pink?style=flat-square&label=Dijital.Link&labelColor=purple&color=%23000000)](https://dijital.link/lunizz) 
 <br><br>
