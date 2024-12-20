@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500" />
+<img src="https://styles.redditmedia.com/t5_d5r6xh/styles/bannerBackgroundImage_cr9snytw4q7e1.jpg" />
 
 ### Beyaz Takkeli Tornaci 👋 Can Deger 
 <sub>
