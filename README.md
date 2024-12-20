@@ -4,7 +4,7 @@
 <sub>
 <hr>
   <h3>Ben kimim? neciyim ne is yaparim, Olayim ne? Bu sorularin yanitini REDDIT deki, r/LuNiZz sub reddit'inde bulabilirsin... Afied!</h3>
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/LuNiZz?style=for-the-badge&labelColor=blue&color=black&link=https%3A%2F%2Fwww.reddit.com%2Fr%2FLuNiZz%2Fcomments%2F1hhzj0e%2Fbeyaz_takkeli_tornaci_can_deger%2F%3Futm_source%3Dshare%26utm_medium%3Dweb3x%26utm_name%3Dweb3xcss%26utm_term%3D1)
+https://www.reddit.com/r/LuNiZz/comments/1hhzj0e/beyaz_takkeli_tornaci_can_deger/
 
 
 <br>
