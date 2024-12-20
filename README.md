@@ -1,26 +1,10 @@
 <img src="https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500" />
 
 ### Beyaz Takkeli Tornaci 👋 Can Deger 
-[![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/LuNiZz?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 <sub>
 <hr>
-1979 model bir humanoid olarak, 1993-94'ten beri internette, 90'ların başından beri bilgisayarlarla, 2000'lerin başından itibaren de siber güvenlik ile ilgilenmeye başladım... O zamanlar daha ziyade sistem güvenliği, network güvenliği gibi adları vardı tabi 😉 
-<br>  
-İlk zamanlar Microsoft teknolojileri üzerine eğitmenlik yaptım, sonrasında çeşitli entegratörlerde danışman/siber güvenlik mühendisi/pentester olarak çalıştım... 2014 yılında Danimarka'ya yerleştim, o günden beri buralardayım 🇩🇰
-<br><br>
-Geçmişte, McAfee, Intel, Microsoft gibi firmalarda çalıştım, son 2 senedir ise AWS'de ☁️ Amazon Web Services Europe North bölgesinde lead security advisor olarak görev yapıyorum.
-<br><br>
-Şu aralar kafayı Zero-Trust, IAM, altyapı güvenliği gibi bulut teknolojilerine takmış durumdayım (özellikle AWS). Tehdit modelleme, incident response, well-architected security ve cloud adoption/migration security uygulamaları da ilgi alanlarım arasında. Ayrıca penetrasyon/zafiyet testleri, sistem/network/bulut güvenlik ürünleri ve çözüm tasarımı gibi konularda da deneyimim var ve de bir suru gereksiz sertifikam... 🤓
-<br><br>
-2019'dan beri sosyal medyada içerik üretiyorum, önce Twitch ile başladım, sonra Youtube... Takılıyoruz işte kendi halimizde 😎
-<br><br>
-Burası da, kendi halinde sizlere yol gösterebileceğine inandığım kaynakları derlediğim, bulduğum güzel repoları topladığım, kendi sosyal medya linklerime sahip bir genel repo aslında. Kendi geliştirdiğim bir kod vs yok burada.. zaten kod yazmayı da bırakalı epey oldu 😥 ne yazık ki.
-Siber güvenlik çok geniş bir konu, ben de uzmanı olduğumu söyleyemem, uzmanı olduğunu söyleyen de yanlış yapıyor bence... Her gün yeni bir şeyler öğreniyoruz, gelişmenin sonu yok.
-<br><br>
-Umarım hoşuna gider, afied! 🤗
-<br>
-Sevgiler, Selamlar 👋
-</sub>
+  Ben kimim? neciyim ne is yaparim, Olayim ne? Bu sorularin yanitini REDDIT deki, r/LuNiZz sub reddit'inde bulabilirsin... Afied!
+  https://www.reddit.com/r/LuNiZz/comments/1hhzj0e/beyaz_takkeli_tornaci_can_deger
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@candeger) [![kick](https://img.shields.io/badge/KICK-KICK?style=flat-square&logo=kick&logoColor=%2353FC19&color=%23000000)](https://kick.com/lunizz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/lunizz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/CanDeger) [![Twitter](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://twitter.com/CanDeger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CanDeger) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@Can.Deger) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/LuNiZz) [![DL](https://img.shields.io/badge/LuNiZz-pink?style=flat-square&label=Dijital.Link&labelColor=purple&color=%23000000)](https://dijital.link/lunizz) 
 <br><br>
