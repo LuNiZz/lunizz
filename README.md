@@ -1,19 +1,17 @@
 # 👋 Ben Can Değer. [Beyaz Takkeli Tornacı 😉 (!)]
 
-1979 model bir humanoid olarak, internetin henüz dialup 9600 baudluk modemlerle basladigi yillardan beri buralardayim cano... 😉    
-(87 den beri bilgisayar kullaniyorum da, internet 92-93 falan TR e gelisiyle birlikte basladi)
+1979 model bir humanoid olarak, internetin henüz dial-up 9600 baud'luk modemlerle başladığı yıllardan beri buralardayım cano... 😉
+(87'den beri bilgisayar kullanıyorum da, internetin 92-93 gibi TR'ye gelişiyle birlikte başladı macera.)
 
-Bu repo da benim dijital kilerim gibi bir şey. Sağda solda bulduğum, işe yarar dediğim kaynakları, parlak repoları ve kendi sosyal medya linklerimi attığım bir hangar. Kendi yazdığım bir kod yok, zira kod yazmayı bırakalı baya bi oldu ne yazık ki. 😥
+Bu repo da benim kilerim gibi bir şey. Sağda solda bulduğum, işe yarar dediğim kaynakları, parlak repoları ve kendi sosyal medya linklerimi attığım bir hangar. Kendi yazdığım bir kod yok gibi gibi... (yani var da kendi işimi görecek şeyler, sizlik bir şey yok) 😥
 
-Siber güvenlik derya deniz, ben de "her şeyi bilirim" diyenlerden değilim. Diyen varsa da... neyse. 😉 Her gün beraber yeni bir şeyler öğreniyoruz işte.
-
-İşe ilk başladığımda Microsoft teknolojileri üzerine ahkam kesiyordum (eğitmendim yani). Sonra, danışman, pentester falan derken, sonrasinda **McAfee, Intel, Microsoft, AWS** firmalarda calistim. 2014'te de "Biraz da soğuk görelim" diyerek Danimarka'ya demir attım ve o zamandan beri buralardayım. 🇩🇰
+90'lar sonu 2000'lerin başına kadar sistem yöneticiliği, web, dergi editörlüğü ile vakit harcadıktan sonra 2001'de MS ve Cisco cert'lerini hallettim. Sonra askerlik, sonrasında tekrar işe başladığımda Microsoft teknolojileri üzerine eğitmendim. Sonrası malum; danışman, pentester falan derken kendimi **McAfee, Intel, Microsoft, AWS** gibi firmalarda buldum. 2014'te de "Biraz da soğuk görelim" diyerek Danimarka'ya demir attım ve o zamandan beri buralardayım. 🇩🇰
 
 Daha fazlası için [LinkedIn](https://linkedin.com/in/CanDeger) profiline bakarsın, burada kimseyi baymayalım.
 
-2019'da başladım içerik üretmeye. Önce Twitch'te, sonra YouTube'da takılmaya başladık. Amaç goygoy yaparken bir yandan da üç beş bir şey aktarmak paylasmak vs.
+2019'da başladım içerik üretmeye. Önce Twitch'te, sonra YouTube'da takılmaya başladık. Amaç goygoy yaparken bir yandan da üç beş bir şey aktarmak, paylaşmak vs.
 
-Asıl olayımız ve tüm muhabbet ise **Discord**'da dönüyor. Sorun varsa, bir selam veya sadece takılmak için kapı her zaman açık.
+Asıl olayımız ve tüm muhabbet ise **Discord**'da dönüyor. Sorun varsa, bir selam çakmak veya sadece takılmak için kapı her zaman açık.
 
 ---
 
