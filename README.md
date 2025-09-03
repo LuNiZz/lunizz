@@ -1,4 +1,4 @@
-# 👋 Ben Can Değer. Namıdiğer: Beyaz Takkeli Tornacı
+# 👋 Ben Can Değer. [Beyaz Takkeli Tornacı 😉 (!)]
 
 1979 model bir humanoid olarak, internetin henüz dialup modemlerle 9600 baudla ile cızırdadığı 90'lardan beri buralardayim(92-93 den beri internetteyim). 😉
 
