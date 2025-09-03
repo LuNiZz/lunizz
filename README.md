@@ -2,7 +2,25 @@
 <sub>
 <hr>
   <h3>Ben kimim? neciyim ne is yaparim, Olayim ne? Bu sorularin yanitini REDDIT deki, r/LuNiZz sub reddit'inde bulabilirsin... Afied!</h3>
-https://www.reddit.com/r/LuNiZz/comments/1hhzj0e/beyaz_takkeli_tornaci_can_deger/
+1979 model bir humanoid olarak, 1993-94'ten beri internette, 90'ların başından beri bilgisayarlarla, 2000'lerin başından itibaren de siber güvenlik ile ilgilenmeye başladım... O zamanlar daha ziyade sistem güvenliği, network güvenliği gibi adları vardı tabi 😉
+İlk zamanlar Microsoft teknolojileri üzerine eğitmenlik yaptım, sonrasında çeşitli entegratörlerde danışman/siber güvenlik mühendisi/pentester olarak çalıştım... 2014 yılında Danimarka'ya yerleştim, o günden beri buralardayım 🇩🇰
+
+Geçmişte, McAfee, Intel, Microsoft gibi firmalarda çalıştım, son 2 senedir ise AWS'de ☁️ Amazon Web Services Europe North bölgesinde lead security advisor olarak görev yapıyorum.
+
+Şu aralar kafayı Zero-Trust, IAM, altyapı güvenliği gibi bulut teknolojilerine takmış durumdayım (özellikle AWS). Tehdit modelleme, incident response, well-architected security ve cloud adoption/migration security uygulamaları da ilgi alanlarım arasında. Ayrıca penetrasyon/zafiyet testleri, sistem/network/bulut güvenlik ürünleri ve çözüm tasarımı gibi konularda da deneyimim var ve de bir suru gereksiz sertifikam... 🤓
+
+2019'dan beri sosyal medyada içerik üretiyorum, önce Twitch ile başladım, sonra Youtube... Takılıyoruz işte kendi halimizde 😎
+
+Burası da, kendi halinde sizlere yol gösterebileceğine inandığım kaynakları derlediğim, bulduğum güzel repoları topladığım, kendi sosyal medya linklerime sahip bir genel repo aslında. Kendi geliştirdiğim bir kod vs yok burada.. zaten kod yazmayı da bırakalı epey oldu 😥 ne yazık ki. Siber güvenlik çok geniş bir konu, ben de uzmanı olduğumu söyleyemem, uzmanı olduğunu söyleyen de yanlış yapıyor bence... Her gün yeni bir şeyler öğreniyoruz, gelişmenin sonu yok.
+
+Umarım hoşuna gider, afied! 🤗
+Sevgiler, Selamlar 👋
+
+unutmadan, su video da biraz kendimden bahsettim ; https://www.youtube.com/watch?v=LGcZtkCo2kA
+
+YouTube kick Discord Instagram Twitter LinkedIn TikTok Twitch
+
+
 
 
 <br>
