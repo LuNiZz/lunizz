@@ -6,17 +6,9 @@ Bu repo da benim dijital kilerim gibi bir şey. Sağda solda bulduğum, işe yar
 
 Siber güvenlik derya deniz, ben de "her şeyi bilirim" diyenlerden değilim. Diyen varsa da... neyse. 😉 Her gün beraber yeni bir şeyler öğreniyoruz işte.
 
----
-
-### 👨‍💻 Nereden Nereye...
-
 İşe ilk başladığımda Microsoft teknolojileri üzerine ahkam kesiyordum (eğitmendim yani). Sonra, danışman, pentester falan derken, sonrasinda **McAfee, Intel, Microsoft, AWS** firmalarda calistim. 2014'te de "Biraz da soğuk görelim" diyerek Danimarka'ya demir attım ve o zamandan beri buralardayım. 🇩🇰
 
 Daha fazlası için [LinkedIn](https://linkedin.com/in/CanDeger) profiline bakarsın, burada kimseyi baymayalım.
-
----
-
-### 🎙️ Kaynatıyoruz, Öğreniyoruz!
 
 2019'da başladım içerik üretmeye. Önce Twitch'te, sonra YouTube'da takılmaya başladık. Amaç goygoy yaparken bir yandan da üç beş bir şey aktarmak paylasmak vs.
 
