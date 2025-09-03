@@ -1,37 +1,38 @@
-# 👋 Selamlar, ben Can Değer (Beyaz Takkeli Tornacı)
+# 👋 Ben Can Değer. Namıdiğer: Beyaz Takkeli Tornacı
 
-1979 model bir teknoloji ve siber güvenlik meraklısıyım. Maceram 90'ların başında bilgisayarlarla, 1993-94'te internetle ve 2000'lerin başında o zamanki adıyla "sistem ve network güvenliği" ile başladı. O günden bu yana klavyenin başından kalkmadım diyebiliriz!
+1979 model bir humanoid olarak, internetin henüz dialup modemlerle 9600 baudla ile cızırdadığı 90'lardan beri buralardayim(92-93 den beri internetteyim). 😉
 
-Bu repo, sizlere yol gösterebileceğine inandığım kaynakları derlediğim, bulduğum başarılı repoları topladığım ve sosyal medya hesaplarıma kolayca ulaşabileceğiniz bir merkezdir. Afiyetle kullanın! 🤗
+Bu repo da benim dijital kilerim gibi bir şey. Sağda solda bulduğum, işe yarar dediğim kaynakları, parlak repoları ve kendi sosyal medya linklerimi attığım bir hangar. Kendi yazdığım bir kod yok, zira kod yazmayı bırakalı baya bi oldu ne yazık ki. 😥
 
----
-
-### 👨‍💻 Kariyer Yolculuğum
-
-Kariyerime Microsoft teknolojileri üzerine eğitmenlik yaparak başladım. Ardından çeşitli sistem entegratörlerinde danışman, siber güvenlik mühendisi ve pentester olarak görev aldım. 2014'te Danimarka'ya taşındım ve o zamandan beri kariyerime burada devam ediyorum. 🇩🇰
-
-Geçmişte **McAfee, Intel, Microsoft, IBM** ve **AWS** gibi global teknoloji devlerinde çalışma fırsatı buldum. Güncel kariyer yolculuğumu ve deneyimlerimi [LinkedIn](https://linkedin.com/in/CanDeger) profilimden takip edebilirsiniz.
+Siber güvenlik derya deniz, ben de "her şeyi bilirim" diyenlerden değilim. Diyen varsa da... neyse. 😉 Her gün beraber yeni bir şeyler öğreniyoruz işte.
 
 ---
 
-### 🎙️ Topluluk ve İçerik
+### 👨‍💻 Nereden Nereye...
 
-2019'dan beri bildiklerimi ve deneyimlerimi sosyal medyada paylaşıyorum. Her şey Twitch yayınları ile başladı, ardından YouTube kanalım ile devam etti. Amacım, siber güvenlik gibi karmaşık bir alanda her seviyeden insana dokunabilmek ve birlikte öğrenmek.
+İşe ilk başladığımda Microsoft teknolojileri üzerine ahkam kesiyordum (eğitmendim yani). Sonra, danışman, pentester falan derken, sonrasinda **McAfee, Intel, Microsoft, AWS** firmalarda calistim. 2014'te de "Biraz da soğuk görelim" diyerek Danimarka'ya demir attım ve o zamandan beri buralardayım. 🇩🇰
 
-Topluluğumuzun merkezi ise Discord sunucumuz. Sorularınız, sohbetleriniz ve sektördeki gelişmeler için sizi de bekleriz!
+Daha fazlası için [LinkedIn](https://linkedin.com/in/CanDeger) profiline bakarsın, burada kimseyi baymayalım.
 
 ---
 
-### 🌐 Sosyal Medya Hesaplarım
+### 🎙️ Kaynatıyoruz, Öğreniyoruz!
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@candeger) [![kick](https://img.shields.io/badge/KICK-KICK?style=flat-square&logo=kick&logoColor=%2353FC19&color=%23000000)](https://kick.com/lunizz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/lunizz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/CanDeger) [![Twitter](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://twitter.com/CanDeger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CanDeger) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@Can.Deger) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/LuNiZz) [![DL](https://img.shields.io/badge/LuNiZz-pink?style=flat-square&label=Dijital.Link&labelColor=purple&color=%23000000)](https://dijital.link/lunizz)
+2019'da başladım içerik üretmeye. Önce Twitch'te, sonra YouTube'da takılmaya başladık. Amaç goygoy yaparken bir yandan da üç beş bir şey aktarmak paylasmak vs.
+
+Asıl olayımız ve tüm muhabbet ise **Discord**'da dönüyor. Sorun varsa, bir selam veya sadece takılmak için kapı her zaman açık.
+
+---
+
+### 🌐 Beni Buralarda Bulabilirsin
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@candeger) [![kick](https://img.shields.io/badge/KICK-KICK?style=flat-square&logo=kick&logoColor=%2353FC19&color=%23000000)](https://kick.com/lunizz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/lunizz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/CanDeger) [![Twitter](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://twitter.com/CanDeger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CanDeger) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@Can.Deger) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/LuNiZz) 
 
 ---
 
 ### ❓ Sıkça Sorulan Sorular (SSS)
 
-Aklınıza takılan birçok sorunun cevabını burada bulabilirsiniz: **[https://sss.lunizz.com](https://sss.lunizz.com)**
-
+Aklına bir şey takılırsa önce buraya bak, büyük ihtimalle cevabı vardır: **[https://sss.lunizz.com](https://sss.lunizz.com)**
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=LuNiZz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
