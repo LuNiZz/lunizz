@@ -1,6 +1,7 @@
 # 👋 Ben Can Değer. [Beyaz Takkeli Tornacı 😉 (!)]
 
-1979 model bir humanoid olarak, internetin henüz dialup modemlerle 9600 baudla ile cızırdadığı 90'lardan beri buralardayim(92-93 den beri internetteyim). 😉
+1979 model bir humanoid olarak, internetin henüz dialup 9600 baudluk modemlerle basladigi yillardan beri buralardayim cano... 😉    
+(87 den beri bilgisayar kullaniyorum da, internet 92-93 falan TR e gelisiyle birlikte basladi)
 
 Bu repo da benim dijital kilerim gibi bir şey. Sağda solda bulduğum, işe yarar dediğim kaynakları, parlak repoları ve kendi sosyal medya linklerimi attığım bir hangar. Kendi yazdığım bir kod yok, zira kod yazmayı bırakalı baya bi oldu ne yazık ki. 😥
 
