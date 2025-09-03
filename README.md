@@ -11,7 +11,7 @@ Daha fazlası için [LinkedIn](https://linkedin.com/in/CanDeger) profiline bakar
 
 2019'da başladım içerik üretmeye. Önce Twitch'te, sonra YouTube'da takılmaya başladık. Amaç goygoy yaparken bir yandan da üç beş bir şey aktarmak, paylaşmak vs.
 
-Asıl olayımız ve tüm muhabbet ise **Discord**'da dönüyor. Sorun varsa, bir selam çakmak veya sadece takılmak için kapı her zaman açık.
+Asıl olayımız ve tüm muhabbet ise **Discord**'da dönüyor. Sorun varsa, bir selam vermek vs, veya sadece takılmak için kapı her zaman açık.
 
 ---
 
