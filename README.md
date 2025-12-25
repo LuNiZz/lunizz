@@ -24,8 +24,15 @@ Asıl olayımız ve tüm muhabbet ise **Discord**'da dönüyor. Sorun varsa, bir
 ### ❓ Sıkça Sorulan Sorular (SSS)
 
 Aklına bir şey takılırsa önce buraya bak, büyük ihtimalle cevabı vardır: **[https://sss.lunizz.com](https://sss.lunizz.com)**
----
 
+---
+### ⚠️📢 İletişim, Davet ve Danışmanlık Hakkında Önemli Not
+
+> **Üniversite Davetleri ve Etkinlikler:** Danimarka'da yaşadığım ve yoğun bir takvimim olduğu için, hak geçmemesi adına öğrenci kulübü etkinliklerine ve fiziksel üniversite davetlerine ne yazık ki katılamıyorum. Bu konuda beni anlayışla karşılayacağınızı umuyorum.
+>
+> **Profesyonel İş Birlikleri & Danışmanlık:** Ticari konferanslar, konuşmacı davetleri veya **birebir ücretli danışmanlık/mentorluk** talepleriniz için **candeger@creatorstation.com** adresi üzerinden ajansımla iletişime geçebilirsiniz.
+
+---
 ![](https://github-readme-stats.vercel.app/api?username=LuNiZz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuNiZz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuNiZz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
